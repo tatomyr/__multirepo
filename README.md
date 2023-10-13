@@ -4,6 +4,4 @@ This is a parent repo that should contain a reference to an independent **__exte
 You should be able to reference the external one from the multirepo.
 But at the same time all changes to the external one should be commited separatelly.
 
-Test......
-
 [External sub-repo](./__external/README.md)
